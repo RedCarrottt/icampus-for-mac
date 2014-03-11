@@ -1,0 +1,504 @@
+TCocoa_iCampus
+v7
+r0
+t308212053.480059
+cCheck dependencies
+cProcessInfoPlistFile /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Info.plist Cocoa_iCampus-Info.plist
+cCopyStringsFile /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib
+cCpResource build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.icns iCampus_iCon.icns
+cCpResource build/Debug/Cocoa_iCampus.app/Contents/Resources/Credits.html Credits.html
+cCpResource build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.png iCampus_iCon.png
+cCpResource build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus.png iCampus.png
+cProcessPCH /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-ffoxaryrfmzktcadnbjjhthitmsu/Cocoa_iCampus_Prefix.pch.gch Cocoa_iCampus_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/main.o /Users/RedCarrottt/코드/Cocoa_iCampus/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampusAppDelegate.o /Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus normal x86_64
+cTouch /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampusAppDelegate.h
+c000000004C9ED59C0000000000000301
+t1285477788
+s769
+i<Cocoa/Cocoa.h>
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m
+c000000004C9EE4B100000000000007F0
+t1285481649
+s2032
+i"Cocoa_iCampusAppDelegate.h"
+i"iCampusConstants.h"
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampus_Prefix.pch
+c000000004C9EBB86000000000000009D
+t1285471110
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/Credits.html
+c000000004C9EE27400000000000001F2
+t1285481076
+s498
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/InfoPlist.strings
+c000000004C9EBB86000000000000002D
+t1285471110
+s45
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib
+c000000004C9EE49A0000000000011D7C
+t1285481626
+s73084
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampus.LinkFileList
+c000000004C9EBB920000000000000104
+t1285471122
+s260
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampusAppDelegate.o
+t1285481633
+s35812
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/main.o
+t1285472137
+s4992
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app
+t1285481633
+s102
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Info.plist
+t1285480060
+s1080
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus
+t1285481633
+s21696
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/PkgInfo
+t1285480060
+s8
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/Credits.html
+t1285481078
+s498
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1285471123
+s92
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/MainMenu.nib
+t1285481632
+s12467
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus.png
+t1285481349
+s9994
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.icns
+t1285477726
+s32599
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.png
+t1285481349
+s6883
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/iCampus.png
+c000000004C9EE2DC000000000000270A
+t1285481180
+s9994
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/iCampusConstants.h
+c000000004C9EC8B200000000000003F8
+t1285474482
+s1016
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/iCampus_iCon.icns
+c000000004C9ED5210000000000007F57
+t1285477665
+s32599
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/iCampus_iCon.png
+c000000004C9ED4C10000000000001AE3
+t1285477569
+s6883
+
+N/Users/RedCarrottt/Codes/Cocoa_iCampus/main.m
+c000000004C9EBF0100000000000000FF
+t1285472001
+s255
+i<Cocoa/Cocoa.h>
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampusAppDelegate.h
+c000000004CAEB616000000000000037A
+t1286518294
+s890
+i<Cocoa/Cocoa.h>
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m
+c000000004CAEB87B000000000000091E
+t1286518907
+s2334
+i"Cocoa_iCampusAppDelegate.h"
+i"iCampusConstants.h"
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampus_Prefix.pch
+c000000004C9EBB86000000000000009D
+t1285471110
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/Credits.html
+c000000004C9EE27400000000000001F2
+t1285481076
+s498
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/InfoPlist.strings
+c000000004C9EBB86000000000000002D
+t1285471110
+s45
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib
+c000000004CAEB7DD00000000000127DC
+t1286518749
+s75740
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampus.LinkFileList
+c000000004C9F26320000000000000112
+t1285498418
+s274
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampusAppDelegate.o
+t1286519192
+s33016
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/main.o
+t1286518453
+s5000
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Info.plist
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/Credits.html
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus.png
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.icns
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.png
+t2
+s0
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/iCampus.png
+c000000004C9EE2DC000000000000270A
+t1285481180
+s9994
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/iCampusConstants.h
+c000000004CAEB636000000000000042B
+t1286518326
+s1067
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/iCampus_iCon.icns
+c000000004C9ED5210000000000007F57
+t1285477665
+s32599
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/iCampus_iCon.png
+c000000004C9ED4C10000000000001AE3
+t1285477569
+s6883
+
+N/Users/RedCarrottt/코드/Cocoa_iCampus/main.m
+c000000004C9EBF0100000000000000FF
+t1285472001
+s255
+i<Cocoa/Cocoa.h>
+
+N/var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-boepwfhskukymugzplbjqymhnhnx/Cocoa_iCampus_Prefix.pch.gch
+t1285471131
+s54265616
+
+N/var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-ffoxaryrfmzktcadnbjjhthitmsu/Cocoa_iCampus_Prefix.pch.gch
+t1286518453
+s51179824
+
+N/var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-gaelagrlvlqgxchezqwhwujecamf/Cocoa_iCampus_Prefix.pch.gch
+t2
+s0
+
+NCocoa_iCampus-Info.plist
+c000000004CAEB9920000000000000467
+t1286519186
+s1127
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308212052#308212052#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampusAppDelegate.o /Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307174433.046268
+e307174433.614804
+r1
+xCompileC
+xbuild/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampusAppDelegate.o
+x/Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m307174433#307174433#0(0"0(0#0#65"/Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m8621456320#1610"    cd /Users/RedCarrottt/Codes/Cocoa_iCampus    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-generated-files.hmap -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-own-target-headers.hmap -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-all-target-headers.hmap -iquote /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-project-headers.hmap -F/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/include -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources/x86_64 -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources -include /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-boepwfhskukymugzplbjqymhnhnx/Cocoa_iCampus_Prefix.pch -c /Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m -o /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampusAppDelegate.o0#
+
+CCompileC build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampusAppDelegate.o /Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308211991.904941
+e308211992.144783
+r1
+xCompileC
+xbuild/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampusAppDelegate.o
+x/Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m308211991#308211992#0(0"0(0#0#72"/Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m8606823456#1687"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-generated-files.hmap -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-own-target-headers.hmap -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-all-target-headers.hmap -iquote /Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-project-headers.hmap -F/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/include -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources/x86_64 -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources -include /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-ffoxaryrfmzktcadnbjjhthitmsu/Cocoa_iCampus_Prefix.pch -c /Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampusAppDelegate.m -o /Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampusAppDelegate.o0#
+
+CCompileC build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/main.o /Users/RedCarrottt/Codes/Cocoa_iCampus/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307164937.672080
+e307164937.974228
+r1
+xCompileC
+xbuild/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/main.o
+x/Users/RedCarrottt/Codes/Cocoa_iCampus/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/RedCarrottt/Codes/Cocoa_iCampus/main.m307164937#307164937#0(0"0(0#0#45"/Users/RedCarrottt/Codes/Cocoa_iCampus/main.m8029405159545332736#1570"    cd /Users/RedCarrottt/Codes/Cocoa_iCampus    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-generated-files.hmap -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-own-target-headers.hmap -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-all-target-headers.hmap -iquote /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-project-headers.hmap -F/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/include -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources/x86_64 -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources -include /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-boepwfhskukymugzplbjqymhnhnx/Cocoa_iCampus_Prefix.pch -c /Users/RedCarrottt/Codes/Cocoa_iCampus/main.m -o /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/main.o /Users/RedCarrottt/코드/Cocoa_iCampus/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308211253.575393
+e308211253.993168
+r1
+xCompileC
+xbuild/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/main.o
+x/Users/RedCarrottt/코드/Cocoa_iCampus/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/RedCarrottt/코드/Cocoa_iCampus/main.m308211253#308211253#0(0"0(0#0#52"/Users/RedCarrottt/코드/Cocoa_iCampus/main.m8622865600#1647"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-generated-files.hmap -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-own-target-headers.hmap -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-all-target-headers.hmap -iquote /Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-project-headers.hmap -F/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/include -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources/x86_64 -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources -include /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-ffoxaryrfmzktcadnbjjhthitmsu/Cocoa_iCampus_Prefix.pch -c /Users/RedCarrottt/코드/Cocoa_iCampus/main.m -o /Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib
+s307174432.050580
+e307174433.045970
+r1
+xCompileXIB
+x/Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib:545: note: This view is clipping its content.
+o/Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib:547: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib307174432#307174433#0(264"/* com.apple.ibtool.document.notices *//Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib:545: note: This view is clipping its content./Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib:547: note: This view is clipping its content.2(13@34"This view is clipping its content.307174433#18446744073709551615#0#0(6@65"/Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib307174426#545#0#545#0#0"0(13@34"This view is clipping its content.307174433#18446744073709551615#0#0(6@65"/Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib307174426#547#0#547#0#0"0(0#0#65"/Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib8615742048#370"    cd /Users/RedCarrottt/Codes/Cocoa_iCampus    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/MainMenu.nib /Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib
+s308212052.815210
+e308212053.441638
+r1
+xCompileXIB
+x/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib:547: note: This view is clipping its content.
+o/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib:545: note: This view is clipping its content.
+o/* com.apple.ibtool.document.warnings */
+o/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib:540: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.
+o/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib:538: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib308212052#308212053#0(673"/* com.apple.ibtool.document.notices *//Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib:547: note: This view is clipping its content./Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib:545: note: This view is clipping its content./* com.apple.ibtool.document.warnings *//Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib:540: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6./Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib:538: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.4(13@34"This view is clipping its content.308212053#18446744073709551615#0#0(6@72"/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib308211549#547#0#547#0#0"0(13@34"This view is clipping its content.308212053#18446744073709551615#0#0(6@72"/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib308211549#545#0#545#0#0"0(22@89"The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.308212053#18446744073709551615#0#0(6@72"/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib308211549#540#0#540#0#0"0(22@89"The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.308212053#18446744073709551615#0#0(6@72"/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib308211549#538#0#538#0#0"0(0#0#72"/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib8605711872#391"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/MainMenu.nib /Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s307163922.065769
+e307163923.762774
+r1
+xCopyStringsFile
+x/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings307163922#307163923#0(0"0(0#0#70"/Users/RedCarrottt/Codes/Cocoa_iCampus/English.lproj/InfoPlist.strings8605212544#371"    cd /Users/RedCarrottt/Codes/Cocoa_iCampus    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s308212052.814056
+e308212053.099203
+r1
+xCopyStringsFile
+x/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings308212052#308212053#0(0"0(0#0#77"/Users/RedCarrottt/코드/Cocoa_iCampus/English.lproj/InfoPlist.strings8600767328#385"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Cocoa_iCampus.app/Contents/Resources/Credits.html Credits.html
+s308212053.100408
+e308212053.108009
+r1
+xCpResource
+xbuild/Debug/Cocoa_iCampus.app/Contents/Resources/Credits.html
+xCredits.html
+lSLF07#2@17"Copy Credits.html308212053#308212053#0(0"0(0#0#58"/Users/RedCarrottt/코드/Cocoa_iCampus/Credits.html8603965728#369"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/RedCarrottt/코드/Cocoa_iCampus/Credits.html /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources0#
+
+CCpResource build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus.png iCampus.png
+s308212053.102807
+e308212053.121791
+r1
+xCpResource
+xbuild/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus.png
+xiCampus.png
+lSLF07#2@16"Copy iCampus.png308212053#308212053#0(0"0(0#0#57"/Users/RedCarrottt/코드/Cocoa_iCampus/iCampus.png8603892768#368"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/RedCarrottt/코드/Cocoa_iCampus/iCampus.png /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources0#
+
+CCpResource build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.icns iCampus_iCon.icns
+s308212053.099303
+e308212053.115606
+r1
+xCpResource
+xbuild/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.icns
+xiCampus_iCon.icns
+lSLF07#2@22"Copy iCampus_iCon.icns308212053#308212053#0(0"0(0#0#63"/Users/RedCarrottt/코드/Cocoa_iCampus/iCampus_iCon.icns8604053664#374"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/RedCarrottt/코드/Cocoa_iCampus/iCampus_iCon.icns /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources0#
+
+CCpResource build/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.png iCampus_iCon.png
+s308212053.101115
+e308212053.112854
+r1
+xCpResource
+xbuild/Debug/Cocoa_iCampus.app/Contents/Resources/iCampus_iCon.png
+xiCampus_iCon.png
+lSLF07#2@21"Copy iCampus_iCon.png308212053#308212053#0(0"0(0#0#62"/Users/RedCarrottt/코드/Cocoa_iCampus/iCampus_iCon.png8604566912#373"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/RedCarrottt/코드/Cocoa_iCampus/iCampus_iCon.png /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Resources0#
+
+CLd /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus normal x86_64
+s307174433.615001
+e307174433.923066
+r1
+xLd
+x/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus
+xnormal
+xx86_64
+lSLF07#2@102"Link /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus307174433#307174433#0(0"0(0#0#0"8620749344#572"    cd /Users/RedCarrottt/Codes/Cocoa_iCampus    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug -F/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug -filelist /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampus.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus0#
+
+CLd /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus normal x86_64
+s308212053.442069
+e308212053.476609
+r1
+xLd
+x/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus
+xnormal
+xx86_64
+lSLF07#2@109"Link /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus308212053#308212053#0(0"0(0#0#0"29555280582869104#607"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug -F/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug -filelist /Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Objects-normal/x86_64/Cocoa_iCampus.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/MacOS/Cocoa_iCampus0#
+
+CProcessInfoPlistFile /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Info.plist Cocoa_iCampus-Info.plist
+s307172860.260900
+e307172860.324292
+r1
+xProcessInfoPlistFile
+x/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Info.plist
+xCocoa_iCampus-Info.plist
+lSLF07#2@32"Process Cocoa_iCampus-Info.plist307172860#307172860#0(0"0(0#0#63"/Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampus-Info.plist8620040960#328"    cd /Users/RedCarrottt/Codes/Cocoa_iCampus    builtin-infoPlistUtility Cocoa_iCampus-Info.plist -genpkginfo /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Info.plist Cocoa_iCampus-Info.plist
+s308212052.807325
+e308212052.813961
+r1
+xProcessInfoPlistFile
+x/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Info.plist
+xCocoa_iCampus-Info.plist
+lSLF07#2@32"Process Cocoa_iCampus-Info.plist308212052#308212052#0(0"0(0#0#70"/Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampus-Info.plist27303549488791664#349"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    builtin-infoPlistUtility Cocoa_iCampus-Info.plist -genpkginfo /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-boepwfhskukymugzplbjqymhnhnx/Cocoa_iCampus_Prefix.pch.gch Cocoa_iCampus_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307163925.586977
+e307163931.478017
+r1
+xProcessPCH
+x/var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-boepwfhskukymugzplbjqymhnhnx/Cocoa_iCampus_Prefix.pch.gch
+xCocoa_iCampus_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Cocoa_iCampus_Prefix.pch307163925#307163931#0(0"0(0#0#63"/Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampus_Prefix.pch8604761952#1470"    cd /Users/RedCarrottt/Codes/Cocoa_iCampus    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-generated-files.hmap -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-own-target-headers.hmap -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-all-target-headers.hmap -iquote /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-project-headers.hmap -F/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/include -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources/x86_64 -I/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources -c /Users/RedCarrottt/Codes/Cocoa_iCampus/Cocoa_iCampus_Prefix.pch -o /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-boepwfhskukymugzplbjqymhnhnx/Cocoa_iCampus_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-ffoxaryrfmzktcadnbjjhthitmsu/Cocoa_iCampus_Prefix.pch.gch Cocoa_iCampus_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308211246.874262
+e308211253.575242
+r1
+xProcessPCH
+x/var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-ffoxaryrfmzktcadnbjjhthitmsu/Cocoa_iCampus_Prefix.pch.gch
+xCocoa_iCampus_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Cocoa_iCampus_Prefix.pch308211246#308211253#0(0"0(0#0#70"/Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampus_Prefix.pch8624151904#1540"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-generated-files.hmap -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-own-target-headers.hmap -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-all-target-headers.hmap -iquote /Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/Cocoa_iCampus-project-headers.hmap -F/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/include -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources/x86_64 -I/Users/RedCarrottt/코드/Cocoa_iCampus/build/Cocoa_iCampus.build/Debug/Cocoa_iCampus.build/DerivedSources -c /Users/RedCarrottt/코드/Cocoa_iCampus/Cocoa_iCampus_Prefix.pch -o /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-ffoxaryrfmzktcadnbjjhthitmsu/Cocoa_iCampus_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/uX/uXa5Du3KEYqssnfe9kpB+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cocoa_iCampus_Prefix-gaelagrlvlqgxchezqwhwujecamf/Cocoa_iCampus_Prefix.pch.gch Cocoa_iCampus_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app
+s307174433.923184
+e307174433.926617
+r1
+xTouch
+x/Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app
+lSLF07#2@74"Touch /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app307174433#307174433#0(0"0(0#0#0"8621194592#137"    cd /Users/RedCarrottt/Codes/Cocoa_iCampus    /usr/bin/touch -c /Users/RedCarrottt/Codes/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app0#
+
+CTouch /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app
+s308212053.476700
+e308212053.479992
+r1
+xTouch
+x/Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app
+lSLF07#2@81"Touch /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app308212053#308212053#0(0"0(0#0#0"8605983296#151"    cd /Users/RedCarrottt/코드/Cocoa_iCampus    /usr/bin/touch -c /Users/RedCarrottt/코드/Cocoa_iCampus/build/Debug/Cocoa_iCampus.app0#
+
